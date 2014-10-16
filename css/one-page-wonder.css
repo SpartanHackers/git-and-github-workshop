@@ -68,6 +68,11 @@ body {
     font-size: 50px;
 }
 
+ul#links {
+    position: relative;
+    left: 50px;
+}
+
 footer {
     margin: 50px 0;
 }
