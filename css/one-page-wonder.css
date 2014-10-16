@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('../img/1900x500.gif') no-repeat center center scroll;
+    background: url('../img/template/1900x500.gif') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
